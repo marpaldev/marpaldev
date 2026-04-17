@@ -2,7 +2,7 @@
 
 <img
 	alt="GitHub Snake Game"
-	src="https://github.com/PauloMarko/PauloMarko/blob/output/github-snake-dark.svg"
+	src="https://github.com/marpadev/marpaldev/blob/output/github-snake-dark.svg"
 />
 
 **`Sou apenas um desenvolvedor iniciante`**
@@ -66,7 +66,7 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px  ;"
-        src="https://github-readme-stats.vercel.app/api?username=PauloMarko&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=marpaldev&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub&locale=pt-br"
     /><img
         align="left"
         alt="GitHub Stats"
